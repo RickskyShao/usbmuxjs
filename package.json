@@ -1,0 +1,23 @@
+{
+  "name": "usbmuxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickskyShao/usbmuxjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickskyShao/usbmuxjs/issues"
+  },
+  "homepage": "https://github.com/RickskyShao/usbmuxjs#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.11"
+  }
+}
